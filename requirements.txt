@@ -18,3 +18,9 @@ openai==1.6.1
 pydantic==2.5.2
 typing-extensions==4.9.0
 markdown==3.5.1
+# Added pins to avoid Streamlit Cloud installer conflict
+rich==13.7.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+setuptools>=68
+wheel>=0.41
