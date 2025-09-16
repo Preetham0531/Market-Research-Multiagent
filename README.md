@@ -9,6 +9,8 @@ This project delivers an end-to-end, AI-powered market research system that auto
 - Resource Agent: Collects 3–6 high-quality resources per use case from Kaggle/HF/GitHub.
 - Orchestrator: Coordinates agents, handles fallbacks, saves reports and datasets mapping.
 
+ For full system diagrams (context, components, sequences, and data flow), see: `docs/ARCHITECTURE.md`.
+
 ---
 
 ### Research Agent – Inputs, Process, Outputs
